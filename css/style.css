@@ -62,8 +62,8 @@ text-decoration: none;
 }
 
 
-.header-list_link_current:hover,
-.header-list_link_current:focus{
+.header-list_link:hover,
+.header-list_link:focus{
  color: var(--hover-color);
 }
 
@@ -244,8 +244,8 @@ border: none;
 font-family: 'Roboto';
 }
 
-.portofolio-button_current:hover,
-.portofolio-button_current:focus
+.portofolio-button:hover,
+.portofolio-button:focus
 {
 color: var(--bg-header-color);
 background-color:var(--hover-color); 
